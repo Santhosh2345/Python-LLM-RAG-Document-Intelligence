@@ -1,0 +1,19 @@
+# Virtual environments 
+venv/ 
+.venv/ 
+ 
+# Python cache 
+__pycache__/ 
+*.py[cod] 
+ 
+# Secrets 
+.env 
+ 
+# Local vector database 
+chroma_db/ 
+ 
+# IDE settings (optional) 
+.vscode/ 
+ 
+# Logs 
+*.log 
