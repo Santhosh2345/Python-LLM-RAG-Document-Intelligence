@@ -1,0 +1,2 @@
+2026-11-21 17:13:18,859 - __main__ - INFO - File successfully readed
+2026-11-21 17:13:39,840 - __main__ - INFO - File successfully readed
